@@ -3,7 +3,7 @@
 
 ## Introduction
 
-The dataset is available for scientific research. If you find the dataset helps in your research, please consider citing:
+A heterogeneous optical and SAR satellite image change detection dataset. The dataset is proposed in the following paper:
 
 > [A Domain Adaption Neural Network for Change Detection with Heterogeneous Optical and SAR Remote Sensing Images] 
 
