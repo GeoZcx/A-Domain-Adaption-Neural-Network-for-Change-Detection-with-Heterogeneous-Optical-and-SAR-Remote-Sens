@@ -17,4 +17,6 @@ A heterogeneous optical and SAR satellite image change detection dataset. The da
 
 ## Use term and condition
 
-All images and their associated annotations in the dataset can be used for academic purposes only, but any commercial use is prohibited. And if you would like to use the dataset, please refer to our article “A Domain Adaption Neural Network for Change Detection with Heterogeneous Optical and SAR Remote Sensing Images”.
+
+Images and their associated annotations in the dataset can be used for academic and research purposes only. Commercial use is prohibited. To use the dataset, please refer to and cite our article:
+C. Zhang, Y. Feng, L. Hu, D. Tapete, L. Pan, Z. Liang, F. Cigna, P. Yue 2022. A Domain Adaption Neural Network for Change Detection with Heterogeneous Optical and SAR Remote Sensing Images. International Journal of Applied Earth Observation and Geoinformation.
